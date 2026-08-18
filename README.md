@@ -1,4 +1,4 @@
-# Codes-Practice
+# Codex-Practice
 <img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/0d6fc81d-fc61-430f-b94a-ab69254bb134" />
 
 ## IITP 성과관리홍보팀 박지원
